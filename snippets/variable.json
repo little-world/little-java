@@ -9,7 +9,7 @@
         "description": "",
         "description2": "",
         "color": "",
-        "space": false
+        "space": true
       },
       {
         "words": "Declare an integer",
@@ -18,7 +18,7 @@
         "description": "data type",
         "description2": "integer",
         "color": "primary",
-        "space": false
+        "space": true
       },
       {
         "words": "x",
@@ -27,7 +27,7 @@
         "description": "variable name",
         "description2": "x",
         "color": "primary",
-        "space": false
+        "space": true
       },
       {
         "words": "and give it",
@@ -36,7 +36,7 @@
         "description": "assigment",
         "description2": "x is 3",
         "color": "primary",
-        "space": false
+        "space": true
       },
       {
         "words": "a value 3",
@@ -45,7 +45,7 @@
         "description": "value",
         "description2": "whole number",
         "color": "primary",
-        "space": true
+        "space": false
       },
       {
         "words": ".",
