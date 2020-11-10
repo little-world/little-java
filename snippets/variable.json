@@ -4,12 +4,12 @@
     "snippets": [
       {
         "words": "",
-        "text": "",
+        "text": " ",
         "popover": "",
         "describe": "",
         "describe2": "",
         "color": "",
-        "space": true
+        "space": false
       },
       {
         "words": "Declare an integer",
