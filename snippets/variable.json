@@ -192,7 +192,7 @@
         "words": "Declare a String",
         "text": "String",
         "popover": "String",
-        "describe": "data type",
+        "describe": "class name",
         "describe2": "String",
         "color": "red",
         "space": true
