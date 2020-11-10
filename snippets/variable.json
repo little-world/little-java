@@ -139,11 +139,11 @@
       "space": true
     },
     {
-      "words": "ready",
-      "text": "ready",
+      "words": "b",
+      "text": "b",
       "popover": "variable",
       "describe": "variable name",
-      "describe2": "ready",
+      "describe2": "b",
       "color": "blue",
       "space": true
     },
@@ -152,7 +152,7 @@
       "text": "=",
       "popover": "assign",
       "describe": "assigment",
-      "describe2": "ready is true",
+      "describe2": "b is true",
       "color": "primary",
       "space": true
     },
@@ -161,7 +161,7 @@
       "text": "true",
       "popover": "value",
       "describe": "value",
-      "describe2": "binary value",
+      "describe2": "true or false",
       "color": "green",
       "space": false
     },
@@ -198,11 +198,11 @@
         "space": true
       },
       {
-        "words": "text",
-        "text": "text",
+        "words": "s",
+        "text": "s",
         "popover": "variable",
         "describe": "variable name",
-        "describe2": "text",
+        "describe2": "s",
         "color": "blue",
         "space": true
       },
@@ -211,13 +211,13 @@
         "text": "=",
         "popover": "assign",
         "describe": "assigment",
-        "describe2": "text is \"hello\"",
+        "describe2": "s is \"hi\"",
         "color": "primary",
         "space": true
       },
       {
-        "words": "a value \"hello\"",
-        "text": "\"hello\"",
+        "words": "a value \"hi\"",
+        "text": "\"hi\"",
         "popover": "value",
         "describe": "value",
         "describe2": "string",
