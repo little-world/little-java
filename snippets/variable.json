@@ -17,7 +17,7 @@
         "popover": "type",
         "description": "data type",
         "description2": "integer",
-        "color": "primary",
+        "color": "red",
         "space": true
       },
       {
@@ -26,7 +26,7 @@
         "popover": "variable",
         "description": "variable name",
         "description2": "x",
-        "color": "primary",
+        "color": "blue",
         "space": true
       },
       {
@@ -44,7 +44,7 @@
         "popover": "value",
         "description": "value",
         "description2": "whole number",
-        "color": "primary",
+        "color": "green",
         "space": false
       },
       {
