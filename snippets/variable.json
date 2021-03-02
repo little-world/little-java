@@ -9,7 +9,7 @@
         "describe": "",
         "describe2": "",
         "color": "",
-        "space": false
+        "space": true
       },
       {
         "words": "Declare an integer",
