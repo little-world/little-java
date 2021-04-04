@@ -1,4 +1,7 @@
 [
+     {
+    "title": "",
+    "snippets": [
       {
         "words": "Declare an integer",
         "text": "int",
