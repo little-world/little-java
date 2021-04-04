@@ -1,16 +1,4 @@
 [
-  {
-    "title": "",
-    "snippets": [
-      {
-        "words": "",
-        "text": " ",
-        "popover": "",
-        "describe": "",
-        "describe2": "",
-        "color": "",
-        "space": false
-      },
       {
         "words": "Declare an integer",
         "text": "int",
