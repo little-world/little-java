@@ -1,238 +1,246 @@
 [
-     {
+  {
     "title": "",
     "snippets": [
-      {
-        "words": "",
-        "text": " ",
-        "popover": "",
-        "describe": "",
-        "describe2": "",
-        "color": "",
-        "space": false
-      },
-      {
-        "words": "Declare an integer",
-        "text": "int",
-        "popover": "type",
-        "describe": "data type",
-        "describe2": "integer",
-        "color": "red",
-        "space": true
-      },
-      {
-        "words": "x",
-        "text": "x",
-        "popover": "variable",
-        "describe": "variable name",
-        "describe2": "x",
-        "color": "blue",
-        "space": true
-      },
-      {
-        "words": "and give it",
-        "text": "=",
-        "popover": "assign",
-        "describe": "assigment",
-        "describe2": "x is 3",
-        "color": "primary",
-        "space": true
-      },
-      {
-        "words": "a value 3",
-        "text": "3",
-        "popover": "value",
-        "describe": "value",
-        "describe2": "whole number",
-        "color": "green",
-        "space": false
-      },
-      {
-        "words": ".",
-        "text": ";",
-        "popover": "statement",
-        "describe": "statement",
-        "describe2": "end of line",
-        "color": "primary",
-        "space": false
-      }
+      [
+        {
+          "words": "",
+          "text": " ",
+          "popover": "",
+          "describe": "",
+          "describe2": "",
+          "color": "",
+          "space": false
+        },
+        {
+          "words": "Declare an integer",
+          "text": "int",
+          "popover": "type",
+          "describe": "data type",
+          "describe2": "integer",
+          "color": "red",
+          "space": true
+        },
+        {
+          "words": "x",
+          "text": "x",
+          "popover": "variable",
+          "describe": "variable name",
+          "describe2": "x",
+          "color": "blue",
+          "space": true
+        },
+        {
+          "words": "and give it",
+          "text": "=",
+          "popover": "assign",
+          "describe": "assigment",
+          "describe2": "x is 3",
+          "color": "primary",
+          "space": true
+        },
+        {
+          "words": "a value 3",
+          "text": "3",
+          "popover": "value",
+          "describe": "value",
+          "describe2": "whole number",
+          "color": "green",
+          "space": false
+        },
+        {
+          "words": ".",
+          "text": ";",
+          "popover": "statement",
+          "describe": "statement",
+          "describe2": "end of line",
+          "color": "primary",
+          "space": false
+        }
+      ]
     ]
   },
   {
     "title": "",
     "snippets": [
-      {
-        "words": "",
-        "text": " ",
-        "popover": "",
-        "describe": "",
-        "describe2": "",
-        "color": "",
-        "space": false
-      },
-      {
-        "words": "Declare a double",
-        "text": "double",
-        "popover": "type",
-        "describe": "data type",
-        "describe2": "double",
-        "color": "red",
-        "space": true
-      },
-      {
-        "words": "pi",
-        "text": "pi",
-        "popover": "variable",
-        "describe": "variable name",
-        "describe2": "pi",
-        "color": "blue",
-        "space": true
-      },
-      {
-        "words": "and give it",
-        "text": "=",
-        "popover": "assign",
-        "describe": "assigment",
-        "describe2": "d is 3.14",
-        "color": "primary",
-        "space": true
-      },
-      {
-        "words": "a value 3.14",
-        "text": "3.14",
-        "popover": "value",
-        "describe": "value",
-        "describe2": "floating point",
-        "color": "green",
-        "space": false
-      },
-      {
-        "words": ".",
-        "text": ";",
-        "popover": "statement",
-        "describe": "statement",
-        "describe2": "end of line",
-        "color": "primary",
-        "space": false
-      }
+      [
+        {
+          "words": "",
+          "text": " ",
+          "popover": "",
+          "describe": "",
+          "describe2": "",
+          "color": "",
+          "space": false
+        },
+        {
+          "words": "Declare a double",
+          "text": "double",
+          "popover": "type",
+          "describe": "data type",
+          "describe2": "double",
+          "color": "red",
+          "space": true
+        },
+        {
+          "words": "pi",
+          "text": "pi",
+          "popover": "variable",
+          "describe": "variable name",
+          "describe2": "pi",
+          "color": "blue",
+          "space": true
+        },
+        {
+          "words": "and give it",
+          "text": "=",
+          "popover": "assign",
+          "describe": "assigment",
+          "describe2": "d is 3.14",
+          "color": "primary",
+          "space": true
+        },
+        {
+          "words": "a value 3.14",
+          "text": "3.14",
+          "popover": "value",
+          "describe": "value",
+          "describe2": "floating point",
+          "color": "green",
+          "space": false
+        },
+        {
+          "words": ".",
+          "text": ";",
+          "popover": "statement",
+          "describe": "statement",
+          "describe2": "end of line",
+          "color": "primary",
+          "space": false
+        }
+      ]
     ]
-  }
-  ,{
-  "title": "",
-  "snippets": [
-    {
-      "words": "",
-      "text": " ",
-      "popover": "",
-      "describe": "",
-      "describe2": "",
-      "color": "",
-      "space": false
-    },
-    {
-      "words": "Declare a boolean",
-      "text": "boolean",
-      "popover": "type",
-      "describe": "data type",
-      "describe2": "boolean",
-      "color": "red",
-      "space": true
-    },
-    {
-      "words": "b",
-      "text": "b",
-      "popover": "variable",
-      "describe": "variable name",
-      "describe2": "b",
-      "color": "blue",
-      "space": true
-    },
-    {
-      "words": "and set it",
-      "text": "=",
-      "popover": "assign",
-      "describe": "assigment",
-      "describe2": "b is true",
-      "color": "primary",
-      "space": true
-    },
-    {
-      "words": "to true",
-      "text": "true",
-      "popover": "value",
-      "describe": "value",
-      "describe2": "true or false",
-      "color": "green",
-      "space": false
-    },
-    {
-      "words": ".",
-      "text": ";",
-      "popover": "statement",
-      "describe": "statement",
-      "describe2": "end of line",
-      "color": "primary",
-      "space": false
-    }
-  ]
-},
+  },
   {
     "title": "",
     "snippets": [
-      {
-        "words": "",
-        "text": " ",
-        "popover": "",
-        "describe": "",
-        "describe2": "",
-        "color": "",
-        "space": false
-      },
-      {
-        "words": "Declare a String",
-        "text": "String",
-        "popover": "String",
-        "describe": "class name",
-        "describe2": "String",
-        "color": "red",
-        "space": true
-      },
-      {
-        "words": "s",
-        "text": "s",
-        "popover": "variable",
-        "describe": "variable name",
-        "describe2": "s",
-        "color": "blue",
-        "space": true
-      },
-      {
-        "words": "and give it",
-        "text": "=",
-        "popover": "assign",
-        "describe": "assigment",
-        "describe2": "s is \"hi\"",
-        "color": "primary",
-        "space": true
-      },
-      {
-        "words": "a value \"hi\"",
-        "text": "\"hi\"",
-        "popover": "value",
-        "describe": "value",
-        "describe2": "string",
-        "color": "green",
-        "space": false
-      },
-      {
-        "words": ".",
-        "text": ";",
-        "popover": "statement",
-        "describe": "statement",
-        "describe2": "end of line",
-        "color": "primary",
-        "space": false
-      }
+      [
+        {
+          "words": "",
+          "text": " ",
+          "popover": "",
+          "describe": "",
+          "describe2": "",
+          "color": "",
+          "space": false
+        },
+        {
+          "words": "Declare a boolean",
+          "text": "boolean",
+          "popover": "type",
+          "describe": "data type",
+          "describe2": "boolean",
+          "color": "red",
+          "space": true
+        },
+        {
+          "words": "b",
+          "text": "b",
+          "popover": "variable",
+          "describe": "variable name",
+          "describe2": "b",
+          "color": "blue",
+          "space": true
+        },
+        {
+          "words": "and set it",
+          "text": "=",
+          "popover": "assign",
+          "describe": "assigment",
+          "describe2": "b is true",
+          "color": "primary",
+          "space": true
+        },
+        {
+          "words": "to true",
+          "text": "true",
+          "popover": "value",
+          "describe": "value",
+          "describe2": "true or false",
+          "color": "green",
+          "space": false
+        },
+        {
+          "words": ".",
+          "text": ";",
+          "popover": "statement",
+          "describe": "statement",
+          "describe2": "end of line",
+          "color": "primary",
+          "space": false
+        }
+      ]
+    ]
+  },
+  {
+    "title": "",
+    "snippets": [
+      [
+        {
+          "words": "",
+          "text": " ",
+          "popover": "",
+          "describe": "",
+          "describe2": "",
+          "color": "",
+          "space": false
+        },
+        {
+          "words": "Declare a String",
+          "text": "String",
+          "popover": "String",
+          "describe": "class name",
+          "describe2": "String",
+          "color": "red",
+          "space": true
+        },
+        {
+          "words": "s",
+          "text": "s",
+          "popover": "variable",
+          "describe": "variable name",
+          "describe2": "s",
+          "color": "blue",
+          "space": true
+        },
+        {
+          "words": "and give it",
+          "text": "=",
+          "popover": "assign",
+          "describe": "assigment",
+          "describe2": "s is \"hi\"",
+          "color": "primary",
+          "space": true
+        },
+        {
+          "words": "a value \"hi\"",
+          "text": "\"hi\"",
+          "popover": "value",
+          "describe": "value",
+          "describe2": "string",
+          "color": "green",
+          "space": false
+        },
+        {
+          "words": ".",
+          "text": ";",
+          "popover": "statement",
+          "describe": "statement",
+          "describe2": "end of line",
+          "color": "primary",
+          "space": false
+        }
+      ]
     ]
   }
 ]
