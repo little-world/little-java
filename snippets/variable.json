@@ -111,7 +111,62 @@
     ]
   },
   {
-    "title": "",
+    "title": "Math operators",
+    "snippets": [
+      [
+        {
+          "words": "Mathematical operators: ",
+          "code": [{"text" :" ", "color": "primary"}],
+          "popover": "",
+          "describe": "",
+          "describe2": "",
+          "space": false
+        }],[
+        {
+          "words": "add",
+          "code": [{"text" :"c", "color": "blue"}, {"text" :"=", "color": "primary"}, {"text" :"a", "color": "blue"}, {"text" :"+", "color": "primary"}, {"text" :"2", "color": "green"}],
+          "popover": "add",
+          "describe": "add",
+          "describe2": "add",
+          "space": true
+        }],[
+        {
+          "words": "subtract",
+          "code": [{"text" :"c", "color": "blue"}, {"text" :"=", "color": "primary"}, {"text" :"a", "color": "blue"}, {"text" :"-", "color": "primary"}, {"text" :"2", "color": "green"}],
+          "popover": "subtract",
+          "describe": "subtract",
+          "describe2": "subtract",
+          "space": true
+        }],[
+        {
+          "words": "multiply",
+          "code": [{"text" :"c", "color": "blue"}, {"text" :"=", "color": "primary"}, {"text" :"a", "color": "blue"}, {"text" :"*", "color": "primary"}, {"text" :"2", "color": "green"}],
+          "popover": "multiply",
+          "describe": "multiply",
+          "describe2": "multiply",
+          "space": true
+        }],[
+        {
+          "words": "divide",
+          "code": [{"text" :"c", "color": "blue"}, {"text" :"=", "color": "primary"}, {"text" :"a", "color": "blue"}, {"text" :"/", "color": "primary"}, {"text" :"2", "color": "green"}],
+          "popover": "divide",
+          "describe": "divide",
+          "describe2": "divide",
+          "space": false
+        }],[
+        {
+          "words": "modulo",
+          "code": [{"text" :"c", "color": "blue"}, {"text" :"=", "color": "primary"}, {"text" :"a", "color": "blue"}, {"text" :"%", "color": "primary"}, {"text" :"2", "color": "green"}],
+          "popover": "modulo",
+          "describe": "modulo",
+          "describe2": "the rest of a division",
+          "space": false
+        }
+      ]
+    ]
+  },
+  {
+    "title": "choice",
     "snippets": [
       [
         {
@@ -123,32 +178,33 @@
           "space": false
         },
         {
-          "words": "Declare a boolean",
-          "code": [{"text" :"boolean", "color": "red"}],
-          "popover": "type",
-          "describe": "data type",
-          "describe2": "boolean",
+          "words": "If",
+          "code": [{"text" :"if", "color": "primary"}],
+          "popover": "if",
+          "describe": "if",
+          "describe2": "if",
           "space": true
         },
         {
-          "words": "b",
-          "code": [{"text" :"b", "color": "blue"}],
-          "popover": "variable",
-          "describe": "variable name",
-          "describe2": "b",
+          "words": "a greater then 2",
+          "code": [{"text" :"a", "color": "blue"}, {"text" :">", "color": "primary"}, {"text" :"2", "color": "green"}],
+          "popover": "question",
+          "describe": "choices",
+          "describe2": "greater",
           "space": true
         },
         {
-          "words": "and set it",
-          "code": [{"text" :"=", "color": "primary"}],
-          "popover": "assign",
-          "describe": "assigment",
-          "describe2": "b is true",
+          "words": "then",
+          "code": [{"text" :"", "color": "primary"}],
+          "popover": "",
+          "describe": "then",
+          "describe2": "",
           "space": true
-        },
+        }],
+      [
         {
-          "words": "to true",
-          "code": [{"text" :"true", "color": "green"}],
+          "words": "b becomes 1",
+          "code": [{"text" :"b", "color": "blue"}, {"text" :"=", "color": "primary"}, {"text" :"1", "color": "green"}],
           "popover": "value",
           "describe": "value",
           "describe2": "true or false",
