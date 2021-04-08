@@ -133,7 +133,7 @@
         },
         {
           "words": "s",
-          "code": [{"text" :"s", "color": "blue"}, {"text" :"s2", "color": "red"}],
+          "code": [{"text" :"s", "color": "blue"}],
           "popover": "variable",
           "describe": "variable name",
           "describe2": "s",
@@ -166,7 +166,7 @@
       ]
     ]
   },
-    {
+  {
     "title": "Math operators",
     "snippets": [
       [
@@ -207,6 +207,10 @@
             {
               "text": "2",
               "color": "green"
+            },
+            {
+              "text": ";",
+              "color": "primary"
             }
           ],
           "popover": "add",
@@ -238,6 +242,10 @@
             {
               "text": "2",
               "color": "green"
+            },
+            {
+              "text": ";",
+              "color": "primary"
             }
           ],
           "popover": "subtract",
@@ -269,6 +277,10 @@
             {
               "text": "2",
               "color": "green"
+            },
+            {
+              "text": ";",
+              "color": "primary"
             }
           ],
           "popover": "multiply",
@@ -300,12 +312,16 @@
             {
               "text": "2",
               "color": "green"
+            },
+            {
+              "text": ";",
+              "color": "primary"
             }
           ],
           "popover": "divide",
           "describe": "divide",
           "describe2": "divide",
-          "space": false
+          "space": true
         }
       ],
       [
@@ -331,12 +347,16 @@
             {
               "text": "2",
               "color": "green"
+            },
+            {
+              "text": ";",
+              "color": "primary"
             }
           ],
           "popover": "modulo",
           "describe": "modulo",
           "describe2": "the rest of a division",
-          "space": false
+          "space": true
         }
       ]
     ]
@@ -372,7 +392,7 @@
           "space": true
         },
         {
-          "words": "a greater then 2",
+          "words": "a is greater then 2",
           "code": [
             {
               "text": "a",
@@ -426,20 +446,7 @@
           "popover": "value",
           "describe": "value",
           "describe2": "true or false",
-          "space": false
-        },
-        {
-          "words": ".",
-          "code": [
-            {
-              "text": ";",
-              "color": "primary"
-            }
-          ],
-          "popover": "statement",
-          "describe": "statement",
-          "describe2": "end of line",
-          "space": false
+          "space": true
         }
       ]
     ]
