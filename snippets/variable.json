@@ -4,16 +4,13 @@
     "snippets": [
       [
         {
-          "words": "",
-          "code": [{"text" :" ", "color": "primary"}],
-          "popover": "",
-          "describe": "",
-          "describe2": "",
-          "space": false
-        },
-        {
           "words": "Declare an integer",
-          "code": [{"text" :"int", "color": "red"}],
+          "code": [
+            {
+              "text": "int",
+              "color": "red"
+            }
+          ],
           "popover": "type",
           "describe": "data type",
           "describe2": "integer",
@@ -21,7 +18,12 @@
         },
         {
           "words": "x",
-          "code": [{"text" :"x", "color": "blue"}],
+          "code": [
+            {
+              "text": "x",
+              "color": "blue"
+            }
+          ],
           "popover": "variable",
           "describe": "variable name",
           "describe2": "x",
@@ -29,7 +31,12 @@
         },
         {
           "words": "and give it",
-          "code": [{"text" :"=", "color": "primary"}],
+          "code": [
+            {
+              "text": "=",
+              "color": "primary"
+            }
+          ],
           "popover": "assign",
           "describe": "assigment",
           "describe2": "x is 3",
@@ -37,7 +44,12 @@
         },
         {
           "words": "a value 3",
-          "code": [{"text" :"3", "color": "green"}],
+          "code": [
+            {
+              "text": "3",
+              "color": "green"
+            }
+          ],
           "popover": "value",
           "describe": "value",
           "describe2": "whole number",
@@ -45,7 +57,12 @@
         },
         {
           "words": ".",
-          "code": [{"text" :";", "color": "primary"}],
+          "code": [
+            {
+              "text": ";",
+              "color": "primary"
+            }
+          ],
           "popover": "statement",
           "describe": "statement",
           "describe2": "end of line",
@@ -59,16 +76,13 @@
     "snippets": [
       [
         {
-          "words": "",
-          "code": [{"text" :" ", "color": "primary"}],
-          "popover": "",
-          "describe": "",
-          "describe2": "",
-          "space": false
-        },
-        {
           "words": "Declare a double",
-          "code": [{"text" :"double", "color": "red"}],
+          "code": [
+            {
+              "text": "double",
+              "color": "red"
+            }
+          ],
           "popover": "type",
           "describe": "data type",
           "describe2": "double",
@@ -76,7 +90,12 @@
         },
         {
           "words": "pi",
-          "code": [{"text" :"pi", "color": "blue"}],
+          "code": [
+            {
+              "text": "pi",
+              "color": "blue"
+            }
+          ],
           "popover": "variable",
           "describe": "variable name",
           "describe2": "pi",
@@ -84,7 +103,12 @@
         },
         {
           "words": "and give it",
-          "code": [{"text" :"=", "color": "primary"}],
+          "code": [
+            {
+              "text": "=",
+              "color": "primary"
+            }
+          ],
           "popover": "assign",
           "describe": "assigment",
           "describe2": "d is 3.14",
@@ -92,7 +116,12 @@
         },
         {
           "words": "a value 3.14",
-          "code": [{"text" :"3.14", "color": "green"}],
+          "code": [
+            {
+              "text": "3.14",
+              "color": "green"
+            }
+          ],
           "popover": "value",
           "describe": "value",
           "describe2": "floating point",
@@ -101,7 +130,12 @@
         },
         {
           "words": ".",
-          "code": [{"text" :";", "color": "primary"}],
+          "code": [
+            {
+              "text": ";",
+              "color": "primary"
+            }
+          ],
           "popover": "statement",
           "describe": "statement",
           "describe2": "end of line",
@@ -110,22 +144,18 @@
       ]
     ]
   },
-
   {
     "title": "",
     "snippets": [
       [
         {
-          "words": "",
-          "code": [{"text" :" ", "color": "primary"}],
-          "popover": "",
-          "describe": "",
-          "describe2": "",
-          "space": false
-        },
-        {
           "words": "Declare a String",
-          "code": [{"text" :"String", "color": "red"}],
+          "code": [
+            {
+              "text": "String",
+              "color": "red"
+            }
+          ],
           "popover": "String",
           "describe": "class name",
           "describe2": "String",
@@ -133,7 +163,12 @@
         },
         {
           "words": "s",
-          "code": [{"text" :"s", "color": "blue"}],
+          "code": [
+            {
+              "text": "s",
+              "color": "blue"
+            }
+          ],
           "popover": "variable",
           "describe": "variable name",
           "describe2": "s",
@@ -141,7 +176,12 @@
         },
         {
           "words": "and give it",
-          "code": [{"text" :"=", "color": "primary"}],
+          "code": [
+            {
+              "text": "=",
+              "color": "primary"
+            }
+          ],
           "popover": "assign",
           "describe": "assigment",
           "describe2": "s is \"hi\"",
@@ -149,7 +189,12 @@
         },
         {
           "words": "a value \"hi\"",
-          "code": [{"text" :"\"hi\"", "color": "green"}],
+          "code": [
+            {
+              "text": "\"hi\"",
+              "color": "green"
+            }
+          ],
           "popover": "value",
           "describe": "value",
           "describe2": "string",
@@ -157,7 +202,12 @@
         },
         {
           "words": ".",
-          "code": [{"text" :";", "color": "primary"}],
+          "code": [
+            {
+              "text": ";",
+              "color": "primary"
+            }
+          ],
           "popover": "statement",
           "describe": "statement",
           "describe2": "end of line",
@@ -169,21 +219,6 @@
   {
     "title": "Math operators",
     "snippets": [
-      [
-        {
-          "words": "Mathematical operators: ",
-          "code": [
-            {
-              "text": " ",
-              "color": "primary"
-            }
-          ],
-          "popover": "",
-          "describe": "",
-          "describe2": "",
-          "space": false
-        }
-      ],
       [
         {
           "words": "add",
@@ -366,19 +401,6 @@
     "snippets": [
       [
         {
-          "words": "",
-          "code": [
-            {
-              "text": " ",
-              "color": "primary"
-            }
-          ],
-          "popover": "",
-          "describe": "",
-          "describe2": "",
-          "space": false
-        },
-        {
           "words": "If",
           "code": [
             {
@@ -395,6 +417,10 @@
           "words": "a is greater then 2",
           "code": [
             {
+              "text": "(",
+              "color": "primary"
+            },
+            {
               "text": "a",
               "color": "blue"
             },
@@ -405,6 +431,10 @@
             {
               "text": "2",
               "color": "green"
+            },
+            {
+              "text": ")",
+              "color": "primary"
             }
           ],
           "popover": "question",
@@ -441,6 +471,10 @@
             {
               "text": "1",
               "color": "green"
+            },
+            {
+              "text": ";",
+              "color": "primary"
             }
           ],
           "popover": "value",
